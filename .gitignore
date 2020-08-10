@@ -1,0 +1,8 @@
+video/
+PPO_summary/
+models/
+working\ model/
+__pycache__/
+.idea/
+*.pyc
+*.swp
